@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RPG.Attributes.Health">
+    <Position X="9" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Class Name="RPG.Attributes.Health.TakeDamageEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Attributes\Health.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAACACAAAECAAAAEEAAAQAAAEgWICAABhCAACEA=</HashCode>
+      <FileName>Assets\Scripts\Attributes\Health.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="GameDevTV.Inventories.ActionStore">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="GameDevTV.Inventories.ActionStore.DockedItemSlot" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\ActionStore.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="GameDevTV.Inventories.ActionStore.DockedItemRecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\ActionStore.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="9.125" Y="7.5" />
+        <Point X="9.125" Y="6.665" />
+        <Point X="11.227" Y="6.665" />
+        <Point X="11.227" Y="4.692" />
+        <Point X="13.75" Y="4.692" />
+        <Point X="13.75" Y="4.492" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAABAAAAAAAAAAASAAAAGAAAAAACCAAAiAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\ActionStore.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDevTV.Inventories.Equipment">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="9.125" Y="7.5" />
+        <Point X="9.125" Y="7.065" />
+        <Point X="6.448" Y="7.065" />
+        <Point X="6.448" Y="2.688" />
+        <Point X="6.75" Y="2.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAgAACAAAUAAQAAAQCAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\Equipment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.133" />
+  </Class>
+  <Class Name="GameDevTV.Inventories.Inventory">
+    <Position X="17.25" Y="8.75" Width="2" />
+    <NestedTypes>
+      <Struct Name="GameDevTV.Inventories.Inventory.InventorySlot" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\Inventory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="GameDevTV.Inventories.Inventory.InventorySlotRecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\Inventory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="14" />
+        <Point X="17.25" Y="14" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAAAAACACRAAAAAgAAAAACAAAAAgQiCAECBEQ=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\Inventory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.612" />
+  </Class>
+  <Class Name="GameDevTV.Inventories.ItemDropper">
+    <Position X="6.75" Y="4" Width="2" />
+    <NestedTypes>
+      <Struct Name="GameDevTV.Inventories.ItemDropper.DropRecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\ItemDropper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAAAAAAAAAAAAAAAAAAAACABAAACAAAAACAEA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\ItemDropper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDevTV.Inventories.PickupSpawner">
+    <Position X="4.25" Y="3.75" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="8.688" />
+        <Point X="7.092" Y="8.688" />
+        <Point X="7.092" Y="8.209" />
+        <Point X="5.25" Y="8.209" />
+        <Point X="5.25" Y="6.781" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQEAAAQAAAAAQAAAAAAAACAAAAAAAAAAACAEA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\PickupSpawner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDevTV.UI.Inventories.ActionSlotUI">
+    <Position X="15" Y="9" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="13.985" />
+        <Point X="16.875" Y="13.985" />
+        <Point X="16.875" Y="12.348" />
+        <Point X="15.625" Y="12.348" />
+        <Point X="15.625" Y="12.223" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAAAAAAAASAAAABAAABAQACAAABAEA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\UI\Inventories\ActionSlotUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="GameDevTV.UI.Inventories.EquipmentSlotUI" Collapsed="true">
+    <Position X="6.25" Y="11.5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="11.938" />
+        <Point X="7.75" Y="11.938" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAUAAAAAAQASAAAAAAAAAAQACAAAAEEA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\UI\Inventories\EquipmentSlotUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDevTV.UI.Inventories.InventoryDropTarget">
+    <Position X="6" Y="12.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="12.312" />
+        <Point X="8.506" Y="12.312" />
+        <Point X="8.506" Y="13.312" />
+        <Point X="7.5" Y="13.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\UI\Inventories\InventoryDropTarget.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="GameDevTV.UI.Inventories.InventorySlotUI">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAAAEAAAAQAAASAAAAAAAACAQACAAABAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\UI\Inventories\InventorySlotUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="GameDevTV.Core.UI.Dragging.DragItem&lt;T&gt;">
+    <Position X="15" Y="0.75" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="9.125" Y="7.5" />
+        <Point X="9.125" Y="6.665" />
+        <Point X="11.194" Y="6.665" />
+        <Point X="11.194" Y="4.689" />
+        <Point X="14.76" Y="4.689" />
+        <Point X="14.76" Y="3.25" />
+        <Point X="15" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAEIAIAAABAAhIAAAAIAAAAgAAAAAAAgAAAAABAAkA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Utils\UI\Dragging\DragItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameDevTV.Core.UI.Tooltips.TooltipSpawner">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="9.125" Y="7.5" />
+        <Point X="9.125" Y="6.665" />
+        <Point X="11.179" Y="6.665" />
+        <Point X="11.179" Y="4.689" />
+        <Point X="12" Y="4.689" />
+        <Point X="12" Y="4.415" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAACAAAAgBQAAAAAAAAEAAgAAAAIAAAABAAACCA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Utils\UI\Tooltips\TooltipSpawner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="RPG.Combat.CombatTarget">
+    <Position X="11" Y="11.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="12.25" />
+        <Point X="11" Y="12.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Combat\CombatTarget.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG.Combat.Fighter">
+    <Position X="17.25" Y="0.75" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="10.25" Y="8.938" />
+        <Point X="13.375" Y="8.938" />
+        <Point X="13.375" Y="8.224" />
+        <Point X="17.75" Y="8.224" />
+        <Point X="17.75" Y="7.819" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>MAQABAAAQGAABIAGIAIABBAiIIAEAAgBIGACAABIAEA=</HashCode>
+      <FileName>Assets\Scripts\Combat\Fighter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG.Combat.WeaponPickup">
+    <Position X="15.5" Y="5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="10.25" Y="8.938" />
+        <Point X="13.38" Y="8.938" />
+        <Point X="13.38" Y="8.224" />
+        <Point X="16.25" Y="8.224" />
+        <Point X="16.25" Y="8.031" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQEACMACAAAAAAAQAAQAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Combat\WeaponPickup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="RPG.Control.ClickablePickup">
+    <Position X="4.75" Y="8" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="9.062" />
+        <Point X="7.505" Y="9.062" />
+        <Point X="7.505" Y="9.812" />
+        <Point X="6.25" Y="9.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAQAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Control\ClickablePickup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG.Dialogue.AIConversant">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="10.25" Y="8.938" />
+        <Point X="13.194" Y="8.938" />
+        <Point X="13.194" Y="6.881" />
+        <Point X="13.5" Y="6.881" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAYAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Dialogue\AIConversant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG.Movement.Mover">
+    <Position X="13.25" Y="9.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="8.938" />
+        <Point X="12.166" Y="8.938" />
+        <Point X="12.166" Y="10.562" />
+        <Point X="13.25" Y="10.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIQAAAAARAAAAAQAKAAAEAAAAAAIAABABACCAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\Movement\Mover.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.358" />
+  </Class>
+  <Class Name="RPG.Quests.QuestList">
+    <Position X="4" Y="10.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.188" Y="11.108" />
+        <Point X="9.188" Y="14.992" />
+        <Point X="4.688" Y="14.992" />
+        <Point X="4.688" Y="14.617" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QYQAAAAAAAQAAAAAAAAAFgCAAAAAIAAAAAEAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\QuestList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG.Stats.Experience">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="7.938" />
+        <Point X="6.448" Y="7.938" />
+        <Point X="6.448" Y="3.513" />
+        <Point X="5.375" Y="3.513" />
+        <Point X="5.375" Y="3.213" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAAAAAAAAEAAAAAQAAEAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Stats\Experience.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="8" Y="7.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
