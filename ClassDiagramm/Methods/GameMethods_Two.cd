@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectileMoveScript">
+    <Position X="24.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBgAAABiIAgAgECAAAAAAEAAAAAQAIAAABAAAAAIA=</HashCode>
+      <FileName>Assets\Asset Packs\GabrielAguiarProductions\Unique_Projectiles_Volume_1\Scripts\UniqueProjectiles\ProjectileMoveScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RotateToMouseScript">
+    <Position X="32.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABACAAACYIAAQAACGAIEAAAEAAQAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GabrielAguiarProductions\Unique_Projectiles_Volume_1\Scripts\UniqueProjectiles\RotateToMouseScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Inventories.Pickup">
+    <Position X="20.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAQEAAAAQACAQAAAAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\Inventories\Pickup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.UI.ShowHideUI">
+    <Position X="20.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAQAAAAABABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Asset Packs\GameDev.tv Assets\Scripts\UI\ShowHideUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.PlanarReflection">
+    <Position X="17.5" Y="11.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAQgAAAAkDAAgAEAAAAEIAEASgMAgBAMAAAAABAACAA=</HashCode>
+      <FileName>Assets\Asset Packs\Water\Scripts\PlanarReflection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.SpecularLighting">
+    <Position X="30.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Asset Packs\Water\Scripts\SpecularLighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_Demo">
+    <Position X="24.5" Y="23.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQQEAAAJAAACAAAAACAAAAUAIAAgAEIAJACAAACAAAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_Demo_RandomDir">
+    <Position X="27" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_Demo_RandomDirectionTranslate">
+    <Position X="22.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAAAAAAAAEAAAAAAQAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_AutoDestructShuriken">
+    <Position X="19.75" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_AutodestructWhenNoChildren">
+    <Position X="22.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutodestructWhenNoChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFX_ShurikenThreadFix">
+    <Position X="21.75" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAA=</HashCode>
+      <FileName>Assets\JMO Assets\Cartoon FX\Scripts\CFX_ShurikenThreadFix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController">
+    <Position X="17.5" Y="17.75" Width="2" />
+    <NestedTypes>
+      <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController.MovementSettings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Dependencies\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController.AdvancedSettings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Dependencies\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQQAhAIgEiAIAEAAgAAgAEACAAACgAIIEAAAAAAUIQA=</HashCode>
+      <FileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Dependencies\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModifierTrigger">
+    <Position X="22" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Scripts\ModifierTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PositionalEvent">
+    <Position X="24.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAIQAAAIAAAAIAAEQACAAAAAEAABAA=</HashCode>
+      <FileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Scripts\PositionalEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SequenceControlledLight">
+    <Position X="31.25" Y="24.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAIAAAAAAAAIAQAAAAAAAwAAIAgAAIggICAA=</HashCode>
+      <FileName>Assets\Procedural Worlds\Ambient Sounds\Demo\Scripts\SequenceControlledLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PWCommon1.Utils">
+    <Position X="20.25" Y="20" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AkAAgAQiAEAQIAAACCAMAAAACAAEADEIAgACAAAQAAA=</HashCode>
+      <FileName>Assets\Procedural Worlds\Frameworks\Common1\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Combat.AggroGroup">
+    <Position X="22.75" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Combat\AggroGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Combat.EnemyHealthDisplay">
+    <Position X="20.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\Scripts\Combat\EnemyHealthDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Control.PlayerController">
+    <Position X="22" Y="11.5" Width="2" />
+    <NestedTypes>
+      <Struct Name="RPG.Control.PlayerController.CursorMapping" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Control\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAgIAAAAAAAAEAAARAQgAAACAAEAAAEAAAAAIEg=</HashCode>
+      <FileName>Assets\Scripts\Control\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.CameraFacing">
+    <Position X="29.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Core\CameraFacing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.PersistentObjectSpawner">
+    <Position X="24.75" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Core\PersistentObjectSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Dialogue.PlayerConversant">
+    <Position X="27" Y="20.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AwBAAQEAAAAACAAIEgEEAEAAAAAQAASAQABBABAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Dialogue\PlayerConversant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.SceneManagement.Portal">
+    <Position X="17.5" Y="24.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RPG.SceneManagement.Portal.DestinationIndentifier" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\SceneManagement\Portal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAAAACAAAAAEAQAAQAABAAAAAQAAABAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\SceneManagement\Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Stats.BaseStats">
+    <Position X="29.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACCQAAAACAAgAAAABAAAEAADIBQDAABAEDEA=</HashCode>
+      <FileName>Assets\Scripts\Stats\BaseStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Quests.QuestCompletion">
+    <Position X="32.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\QuestCompletion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.UI.DialogueUI">
+    <Position X="29.5" Y="17" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAAARCEABAAAACAAgAAAAAABAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\DialogueUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageEffectBase">
+    <Position X="30.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAEBAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Image Effects (Pro Only)\ImageEffectBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Quests.QuestGiver">
+    <Position X="28.75" Y="14.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\QuestGiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Saving.SaveableEntity">
+    <Position X="26.5" Y="17.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAgAAAEAIAAAAAAAAAAAAgAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveableEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameDevTV.Saving.SavingSystem">
+    <Position X="26.5" Y="14" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAgIAgAAAAAAAAAQAAEAAAIAEAAAAABAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SavingSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.SceneManagement.SavingWrapper">
+    <Position X="32" Y="19.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgQAgIAgAAECCAAAAABgIAAAJAEAAACgAAAAAAiAAAE=</HashCode>
+      <FileName>Assets\Scripts\SceneManagement\SavingWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="27.25" Y="6.75" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
